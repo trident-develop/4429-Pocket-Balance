@@ -16,6 +16,7 @@
             android:exported="true"
             android:theme="@style/SplashScreen"
             android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="portrait"
             tools:ignore="DiscouragedApi,LockedOrientationActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
